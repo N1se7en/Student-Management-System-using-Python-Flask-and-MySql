@@ -1,7 +1,7 @@
 # Student-Management-System-using-Python-Flask-and-MySql
 ## Installation
   1. Open project folder in IDE
-  2. Create Virtual env in python
+  2. Create Virtual env in python (Find suitable ways for your ide by googling)
   3. Intsall the required packeges by typing `pip install -r requirements.txt`
   4. Run Xampp and create a new database called `studentdbms`
   5. Import the studentdbms.sql file
